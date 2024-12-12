@@ -1,0 +1,8 @@
+# project out
+/build
+/bin
+/obj
+/out
+
+# idf-components
+/managed_components
