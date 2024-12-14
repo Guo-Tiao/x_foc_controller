@@ -11,8 +11,19 @@
     "idf.openOcdConfigs": [
         "board/esp32-wrover-kit-3.3v.cfg"
     ],
-    "idf.portWin": "COM15",
+    "idf.portWin": "COM19",
     "idf.pythonBinPathWin": "D:/Software/Espressif_5.1.3/python_env/idf5.1_py3.11_env/Scripts/python.exe",
     "idf.toolsPathWin": "D:\\Software\\Espressif_5.1.3",
-    "idf.flashType": "UART"
+    "idf.flashType": "UART",
+    "files.associations": {
+        "x_foc_core.h": "c",
+        "common_def.h": "c",
+        "gpio.h": "c",
+        "x_motor.h": "c",
+        "stdbool.h": "c",
+        "esp_err.h": "c",
+        "i2c.h": "c",
+        "ratio": "c",
+        "common_macro.h": "c"
+    }
 }
