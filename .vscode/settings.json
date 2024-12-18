@@ -24,6 +24,17 @@
         "esp_err.h": "c",
         "i2c.h": "c",
         "ratio": "c",
-        "common_macro.h": "c"
+        "common_macro.h": "c",
+        "esp_log.h": "c",
+        "semphr.h": "c",
+        "mcpwm_prelude.h": "c",
+        "x_mcpwm.h": "c",
+        "cmath": "cpp",
+        "freertos.h": "c",
+        "esp_system.h": "c",
+        "as5600.h": "c",
+        "x_utils.h": "c",
+        "time.h": "c",
+        "types.h": "c"
     }
 }
